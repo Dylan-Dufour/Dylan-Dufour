@@ -4,7 +4,10 @@ Je suis Dylan DUFOUR, je suis en formation à la plateforme pour faire du develo
 
 📍 Où me trouver ?
 LinkedIn : https://www.linkedin.com/in/dylan-dufour-0bb0ba273?lipi=urn%3
+
 instagram : https://www.instagram.com/
+
+
 
 ## Compétences
 - Languages de programmation: Python
@@ -14,7 +17,6 @@ instagram : https://www.instagram.com/
 
 ## Me contacter
 - [LinkedIn] https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAELBrw8BSZlPDhm6d3NUw5I8_s1JmPrPSe0&keywords=dylan%20dufour&origin=RICH_QUERY_SUGGESTION&position=0&searchId=0d885f5c-b836-4359-bde1-f4482eda58a9&sid=DQ%2C&spellCorrectionEnabled=false
-- [Portfolio](https://votreportfolio.com)
 
 
 <!--
