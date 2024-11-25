@@ -7,6 +7,7 @@ LinkedIn : https://www.linkedin.com/in/dylan-dufour-0bb0ba273?lipi=urn%3
 
 instagram : https://www.instagram.com/
 
+![image](https://github.com/user-attachments/assets/01358ef1-3114-4d05-bf5e-803d8646098e)
 
 
 ## Compétences
