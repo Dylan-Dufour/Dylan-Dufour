@@ -1,7 +1,7 @@
 Bienvenue sur mon profil ! 👋
 ![image](https://github.com/user-attachments/assets/c07626c4-570e-4eb7-a676-3b59fae7677e)
 
-Je suis Dylan DUFOUR, je suis en formation à la plateforme pour faire du developpement web, je suis passionné par l'informatique depuis petit j'ai beaucoup de connaissances et connaissances dans ce domaine. Mon expertise inclut des compétences informatiques telles que du réseaux avec Cisco Packet Tracer et de la virtualisation de machines virtuels avec Virtual Box, et ensuite du ticketing en faisant des fiches de dépannage pour les clients avec Active Directory. Aussi je faisais de la maintenance informatique.
+Je suis Dylan DUFOUR, je suis en formation à la plateforme pour faire du developpement web, je suis passionné par l'informatique depuis petit j'ai beaucoup de connaissances et compétences dans ce domaine. Mon expertise inclut des compétences informatiques telles que du réseaux avec Cisco Packet Tracer et de la virtualisation de machines virtuels avec Virtual Box, et ensuite du ticketing en faisant des fiches de dépannage pour les clients avec Active Directory. Aussi je faisais de la maintenance informatique en réparer et dépaner, et faire toute la configuration d'un ordinateur.
 
 📍 Où me trouver ?
 LinkedIn : https://www.linkedin.com/in/dylan-dufour-0bb0ba273?lipi=urn%3
