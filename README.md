@@ -9,7 +9,8 @@ LinkedIn : https://www.linkedin.com/in/dylan-dufour-0bb0ba273?lipi=urn%3
 instagram : https://www.instagram.com/              
 
 
-https://www.adgully.com/img/800/201903/linkedin.jpg
+![image](https://github.com/user-attachments/assets/2f5c89e1-0b9b-4860-b30e-d835ed10227b)
+
 
 
 ## Compétences
