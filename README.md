@@ -9,7 +9,7 @@ LinkedIn : https://www.linkedin.com/in/dylan-dufour-0bb0ba273?lipi=urn%3
 instagram : https://www.instagram.com/
 
 ## Compétences
-- Languages de programmation: Python
+- Languages de programmation: Python, HTML, CSS
 - Outils : Cisco Packet Tracer,(réseau) Virtual Box ou VMware Workstation Pro (Virtualisation), ticketing (Active Directory)
 - Maintenance informatique dépannage et réparation d'ordinateurs
 
