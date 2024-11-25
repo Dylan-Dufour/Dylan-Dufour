@@ -5,8 +5,9 @@ Je suis Dylan DUFOUR, je suis en formation à la plateforme pour faire du develo
 
 📍 Où me trouver ?
 LinkedIn : https://www.linkedin.com/in/dylan-dufour-0bb0ba273?lipi=urn%3
+                                                                                  
+instagram : https://www.instagram.com/                                      ![image](https://github.com/user-attachments/assets/1647db09-b55b-4b28-9f91-31fee07a86f4)
 
-instagram : https://www.instagram.com/
 
 ## Compétences
 - Languages de programmation: Python, HTML, CSS
