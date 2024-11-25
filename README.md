@@ -13,6 +13,10 @@ instagram : https://www.instagram.com/
 
 
 
+![image](https://github.com/user-attachments/assets/1ece6895-7775-44fb-9a9e-50cad739ab98)
+
+
+
 ## Compétences
 - Languages de programmation: Python, HTML, CSS
 - Outils : Cisco Packet Tracer,(réseau) Virtual Box ou VMware Workstation Pro (Virtualisation), ticketing (Active Directory)
