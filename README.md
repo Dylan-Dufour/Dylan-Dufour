@@ -20,7 +20,7 @@ instagram : https://www.instagram.com/
 
 ## Compétences
 - Languages de programmation: Python, HTML, CSS
-- Outils : Cisco Packet Tracer,(réseau) Virtual Box ou VMware Workstation Pro (Virtualisation), ticketing (Active Directory)
+- Outils : Cisco Packet Tracer,(réseau) Virtual Box ou VMware Workstation Pro (Virtualisation), ticketing (Active Directory), GLPI
 - Maintenance informatique dépannage et réparation d'ordinateurs
 
 
