@@ -27,6 +27,8 @@ instagram : https://www.instagram.com/
 ## Me contacter
 - [LinkedIn] https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAELBrw8BSZlPDhm6d3NUw5I8_s1JmPrPSe0&keywords=dylan%20dufour&origin=RICH_QUERY_SUGGESTION&position=0&searchId=0d885f5c-b836-4359-bde1-f4482eda58a9&sid=DQ%2C&spellCorrectionEnabled=false
 
+- https://github.com/Dylan-Dufour/dylan-dufour-portfolio/blob/main/README.md
+
 
 <!--
 **Dylan-Dufour/Dylan-Dufour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
