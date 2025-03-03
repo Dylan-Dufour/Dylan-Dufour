@@ -19,8 +19,8 @@ instagram : https://www.instagram.com/
 
 
 ## Compétences
-- Languages de programmation: Python, HTML, CSS, PHP, GitBash
-- Outils : Cisco Packet Tracer,(réseau) Virtual Box ou VMware Workstation Pro (Virtualisation), ticketing (Active Directory), GLPI, Team Viewer(dépannage à distance), Github
+- Languages de programmation: Python, HTML, CSS, PHP, GitBash, SQL, C++, javaScript
+- Outils : Cisco Packet Tracer,(réseau) Virtual Box ou VMware Workstation Pro (Virtualisation), ticketing (Active Directory), GLPI, Team Viewer(dépannage à distance), Github, figma
 - Maintenance informatique, dépannage et réparation d'ordinateurs
 - Création de site web ou applications, création d'un morpion avec Python 
 
