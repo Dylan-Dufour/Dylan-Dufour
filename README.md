@@ -22,6 +22,7 @@ instagram : https://www.instagram.com/
 - Languages de programmation: Python, HTML, CSS, PHP
 - Outils : Cisco Packet Tracer,(réseau) Virtual Box ou VMware Workstation Pro (Virtualisation), ticketing (Active Directory), GLPI, Team Viewer(dépannage à distance), Github
 - Maintenance informatique, dépannage et réparation d'ordinateurs
+- Création de site web ou applications, création d'un morpion avec Python 
 
 
 ## Me contacter
